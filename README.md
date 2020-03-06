@@ -1,7 +1,7 @@
 # MQP2019
 
 - Participants: [Pavee](./Pavee/README.md), [Vital](./Vital/README.md), [Nick](./Nick/README.md)
-- Meetings: 
+- Past and Future Meetings: 
   - [Fall 2019](./doc/Fall2019Meeting.pdf)
   - [Work-In-Progress-Symposium](https://www.wpi.edu/news/calendar/events/works-in-progress): [Poster](Pavee/symposium.pdf)
   - [MidReport](doc/MidReportConfirm.pdf): Dec 6, 2-3pm, SH304

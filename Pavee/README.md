@@ -2,7 +2,14 @@
 
 ##### Mathematical Sciences | Worcester Polytechnic Institute
 
+
+
 ## Work
+
+##### Report
+[Non-Linear Approximation with ReLU](https://github.com/songqsh/MQP2019/blob/master/Pavee/Midterm_Report.pdf)
+
+
 ##### Neural Network
 [Non-Linear Approximation with ReLU](https://github.com/songqsh/MQP2019/blob/master/Pavee/test%20run.pdf)
 
@@ -13,7 +20,7 @@
 ##### CRR Model
 [American Option](https://github.com/songqsh/MQP2019/blob/master/Pavee/CRR_Model.ipynb)
 
-
+[American Option in Neural Network](https://github.com/songqsh/MQP2019/blob/master/Pavee/Complete_CRR_Neural_Network.ipynb)
 
 ##### Symposium
 [Symposium Poster](https://github.com/songqsh/MQP2019/blob/master/Pavee/symposium.pdf)
